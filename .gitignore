@@ -1,0 +1,64 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+dist/
+coverage/
+.env
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+logs/*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Frontend
+client/node_modules/
+client/build/
+client/.env
+
+# IDE/Editor
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+*.log
+.vim/
+*.swp
+*.swo
+*.tmp
+*.temp
+
+# MacOS
+*.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Linux
+*.directory
+
+# Others
+*.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# # Typescript
+# *.d.ts
